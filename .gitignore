@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/fitbit_tokens.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/fitbit-obsidian-sync/CopilotIndices/0.2.1657.32929/CodeChunks.db
+.vs/fitbit-obsidian-sync/CopilotIndices/0.2.1657.32929/SemanticSymbols.db
+.vs/fitbit-obsidian-sync/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-shm
+.vs/fitbit-obsidian-sync/CopilotIndices/0.2.1657.32929/SemanticSymbols.db-wal
+.vs/fitbit-obsidian-sync/FileContentIndex/6c0f9820-7a78-4b94-85aa-044c4a20e82e.vsidx
+.vs/fitbit-obsidian-sync/v17/.wsuo
+.vs/fitbit-obsidian-sync/v17/DocumentLayout.json
