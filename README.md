@@ -64,9 +64,11 @@ It inserts into your daily note like:
 ```markdown
 ## 🧠 Health Summary
 
-Sleep: 7.25 hrs  
-Steps: 8,932  
-Calories Burned: 2,043
+Weight:: 0 
+Workout:: None (0 min)  
+Sleep:: 0.00 hrs  
+Steps:: 0  
+Calories Burned:: 970  
 ```
 
 If the section already exists, data is inserted or updated below `## 🧠 Health Summary`.
