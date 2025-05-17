@@ -8,7 +8,7 @@ Automatically sync your daily Fitbit data (steps, calories, sleep) into your [Ob
 
 - ✅ Automatically pulls today’s Fitbit data via the API
 - 🧠 Inserts data under `## 🧠 Health Summary` in your daily note
-- 📆 Follows your Obsidian folder structure (e.g., `vault/2025/05-May/2025-05-17.md`)
+- 📆 Saves daily notes to 01 - Daily Notes/YYYY-MM-DD.md
 - 🔁 Refreshes OAuth tokens without any manual work
 - ⚙️ Can be run manually or automated with Task Scheduler / cron
 
